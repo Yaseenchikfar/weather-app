@@ -292,6 +292,12 @@ footer{
     width: 8rem;
     height: 2.5rem;
    }
+   .left{
+    width: 95%;
+   }
+   .right{
+    width: 95%;
+   }
    .left div div.icon{
     width: 30px;
     height: 30px;
@@ -299,5 +305,10 @@ footer{
    }
    .extra-info{
     font-size: .5rem;
+   }
+   .next-box{
+    width: 100%;
+    padding-left: 2rem;
+    padding-right: 2rem;
    }
 }
